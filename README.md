@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/45051986/105198748-a6d8da80-5b46-11eb-8e32-2fc39e32359c.png)
+
 # calculator
 
 ## Project setup
